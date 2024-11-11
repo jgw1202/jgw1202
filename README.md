@@ -42,7 +42,13 @@
     </div>
 
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/jgw1202?pet-id=643700894581407566"
+    width="600"
+    height="120"
+  />
+</a>
     
 
 <a href="https://github.com/devxb/gitanimals">
@@ -53,13 +59,7 @@
   />
 </a>
   
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jgw1202?pet-id=643700894581407566"
-    width="600"
-    height="120"
-  />
-</a>
+
 
 
 
