@@ -1,6 +1,10 @@
 ## Hi I'm Jung Gun Woo 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,spring)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c++,vim" />
+  </a>
+</p>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
