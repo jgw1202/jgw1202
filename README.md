@@ -49,22 +49,11 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jgw1202?pet-id=643700894581407566"
-    width="600"
-    height="300"
-  />
-</a>
-  
-  
-    
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jgw1202?pet-id=643699922870207576"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/jgw1202"
+  width="600"
+  height="300"
+/>
 </a>
   
 
